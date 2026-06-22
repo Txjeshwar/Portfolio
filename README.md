@@ -1,6 +1,6 @@
 #B201 Commputer Science Lab - Portfolio Website:
-Student Name: Tejeshwar Rajesh
-GH Number: GH1054865
+#Student Name: Tejeshwar Rajesh
+G#H Number: GH1054865
 
 This is my Personal Portfolio Website, created to display my skills, background, and projects as Software Engineering student at Gisma University of applied science.
 The Website is live at: https://txjeshwar.github.io/Portfolio/
